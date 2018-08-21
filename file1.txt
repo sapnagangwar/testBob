@@ -1,1 +1,3 @@
 hello bob
+hello feature1
+hello feature2
